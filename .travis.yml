@@ -1,3 +1,5 @@
 language: python
-rvm:
-- 3.8
+# phthon:
+# - 3.8
+# script:
+# - python HelloWorld.py
