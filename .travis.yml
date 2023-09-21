@@ -1,5 +1,7 @@
-language: python
-# phthon:
-# - 3.8
-# script:
-# - python HelloWorld.py
+language: node_js
+node_js:
+- node
+install: 
+- npm install
+script:
+-npm run "echo \"hello world\""
