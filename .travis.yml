@@ -4,4 +4,4 @@ node_js:
 install: 
 - npm install
 script:
--npm run "echo \"hello world\""
+-npm run "hello world"
